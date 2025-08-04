@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Visitor Count](https : //profile-counter.glitch.me/{troyhunterz}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{troyhunterz}/count.svg)
