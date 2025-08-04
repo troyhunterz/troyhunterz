@@ -5,3 +5,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=troyhunterz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ann0nfolder@gmail.com) 
